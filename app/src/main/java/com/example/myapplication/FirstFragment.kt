@@ -10,6 +10,7 @@ import com.example.myapplication.databinding.FragmentFirstBinding
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
+ git changes
  */
 class FirstFragment : Fragment() {
 
